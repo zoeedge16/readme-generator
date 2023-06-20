@@ -1,5 +1,5 @@
 
-# hey
+# hellp
 
 ## Table of Contents
 - [Description](#description)
@@ -11,25 +11,25 @@
 - [Questions](#questions)
 
 ## Description
-omg
+how are
 
 ## Installation
-cool
+you
 
 ## Usage
-i
+doing 
 
 ## License
-This application is covered under the undefined license. ![License: undefined](https://img.shields.io/badge/License-undefined-brightgreen)
+This application is covered under the MIT license. ![License: MIT](https://img.shields.io/badge/License-MIT-brightgreen)
 
 ## Contributing
-undefined
+today
 
 ## Tests
-undefined
+looks
 
 ## Questions
 If there are any further questions, reach out to the following:
-- undefined
-- fr
+- zoeedge16(https://github.com/zoeedge16)
+- zoeedge@gmail.com
     

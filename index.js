@@ -29,6 +29,12 @@ prompt([
         message: "Enter usage information: ",
         name: "usage",
     },
+    {
+        type: "list",
+        message: "Choose a license for your project",
+        name: "license",
+        choices: ["MIT", "Apache 2.0", "GNU AGPLv3", "GNU GPLv3", "GNU LGPLv3"],
+    },
 
     {
         type: "input",
@@ -45,7 +51,7 @@ prompt([
     {
         type: "input",
         message: "Enter your GitHub username: ",
-        name: "Github",
+        name: "github",
     },
 
     {
@@ -94,14 +100,14 @@ ${answers.usage}
 This application is covered under the ${answers.license} license. ![License: ${answers.license}](https://img.shields.io/badge/License-${encodeURIComponent(answers.license)}-brightgreen)
 
 ## Contributing
-${answers.contributing}
+${answers.contribution}
 
 ## Tests
-${answers.tests}
+${answers.test}
 
 ## Questions
 If there are any further questions, reach out to the following:
-- ${answers.github}
+- ${answers.github}(https://github.com/${answers.github})
 - ${answers.email}
     `;
 }
