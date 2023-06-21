@@ -19,4 +19,5 @@ function generateMarkdown(data) {
 
 module.exports = generateMarkdown;
 
-// i think he wants us to use this and put the lines I wrote in index.js (58-94) and then use function writeToFile to put this code into the index.js and run it that way! 
+// I think he wants us to use this and put the lines I wrote in index.js (58-94) and then use function writeToFile to put this code into the index.js and run it that way!
+// If all else fails do it the way that I want to do it! 

@@ -63,7 +63,7 @@ prompt([
 .then ((answers) => {
     const readmeCont = generateREADME(answers);
    
-    fs.writeFile('README.md', readmeCont, (err) => {
+    fs.writeFile('dist/README.md', readmeCont, (err) => {
         if (err) throw err;
         console.log('README.md created!');
     });
