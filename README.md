@@ -22,6 +22,7 @@ THEN I am taken to the corresponding section of the README
 ## Depository
 
 [Repository](https://github.com/zoeedge16/readme-generator)
+
 [Preview of Project](https://github.com/zoeedge16/readme-generator/assets/130196402/b0cc1f7a-3e2d-4717-b2ca-db04b3ee5277)
 
 
