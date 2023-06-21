@@ -1,5 +1,5 @@
 
-# title
+# README generator
 
 ## Table of Contents
 - [Description](#description)
@@ -11,22 +11,22 @@
 - [Questions](#questions)
 
 ## Description
-hellp
+This generator is for users to quickyl create a high quality README through the command-line
 
 ## Installation
-yep
+Installation
 
 ## Usage
-yep
+This project is to be used for README generating
 
 ## License
-This application is covered under the MIT license. ![License: MIT](https://img.shields.io/badge/License-MIT-brightgreen)
+This application is covered under the Apache 2.0 license. ![License: Apache 2.0](https://img.shields.io/badge/License-Apache%202.0-brightgreen)
 
 ## Contributing
-hey
+Zoe Edge
 
 ## Tests
-whats up
+Open command-line. Type in node index.js. Answer the questions until the end. 
 
 ## Questions
 If there are any further questions, reach out to the following:

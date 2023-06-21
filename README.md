@@ -22,6 +22,3 @@ THEN I am taken to the corresponding section of the README
 ## Depository
 
 [Repository](https://github.com/zoeedge16/readme-generator)
-
-## Preview
-[video](https://www.awesomescreenshot.com/video/17432401?key=85a866b05044b1d8bbb7831f267dd241)
